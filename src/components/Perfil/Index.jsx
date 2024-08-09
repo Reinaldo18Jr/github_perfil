@@ -1,7 +1,5 @@
 import styles from './Perfil.module.css';
 
-//export default function() {
-//export default () => {
 const Perfil = ({ nomeUsuario }) => {
     return (
         <header className={styles.header}>
